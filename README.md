@@ -18,11 +18,12 @@ In order to play you should run the following specific command to each game:
 Run the games and follow the instructions!
 
 
-[![Maintainability](https://api.codeclimate.com/v1/badges/c319671fcf845feb0d77/maintainability)](https://codeclimate.com/github/gravanofranchezd/python-project-49/maintainability)
-
-
 ### Hexlet tests and linter status:
 [![Actions Status](https://github.com/gravanofranchezd/python-project-49/workflows/hexlet-check/badge.svg)](https://github.com/gravanofranchezd/python-project-49/actions)
+
+
+### Code Climate:
+[![Maintainability](https://api.codeclimate.com/v1/badges/c319671fcf845feb0d77/maintainability)](https://codeclimate.com/github/gravanofranchezd/python-project-49/maintainability)
 
 
 ### Asciinema:
