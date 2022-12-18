@@ -27,7 +27,6 @@ Run the games and follow the instructions!
 
 
 ### Asciinema:
-<a href="https://asciinema.org/a/uNhgoqXU7innEsJSqV77NgcAM" target="_blank"><img src="https://asciinema.org/a/uNhgoqXU7innEsJSqV77NgcAM.svg" /></a>
 <a href="https://asciinema.org/a/yygJBZfpkg4ZfCJuU3Fn7pYkf" target="_blank"><img src="https://asciinema.org/a/yygJBZfpkg4ZfCJuU3Fn7pYkf.svg" /></a>
 <a href="https://asciinema.org/a/4hsksFN2N7zayMe0YOpLk8Ver" target="_blank"><img src="https://asciinema.org/a/4hsksFN2N7zayMe0YOpLk8Ver.svg" /></a>
 <a href="https://asciinema.org/a/4au8fgCwQfR97X2ky13ws8VCJ" target="_blank"><img src="https://asciinema.org/a/4au8fgCwQfR97X2ky13ws8VCJ.svg" /></a>
