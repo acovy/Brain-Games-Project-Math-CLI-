@@ -1,4 +1,6 @@
 ### Project description
+
+
 Welcome to the Brain Games!
 
 
@@ -19,14 +21,20 @@ Run the games and follow the instructions!
 
 
 ### Hexlet tests and linter status:
+
+
 [![Actions Status](https://github.com/gravanofranchezd/python-project-49/workflows/hexlet-check/badge.svg)](https://github.com/gravanofranchezd/python-project-49/actions)
 
 
 ### Code Climate:
+
+
 <a href="https://codeclimate.com/github/gravanofranchezd/python-project-49/maintainability"><img src="https://api.codeclimate.com/v1/badges/c319671fcf845feb0d77/maintainability" /></a>
 
 
 ### Asciinema:
+
+
 <a href="https://asciinema.org/a/yygJBZfpkg4ZfCJuU3Fn7pYkf" target="_blank"><img src="https://asciinema.org/a/yygJBZfpkg4ZfCJuU3Fn7pYkf.svg" /></a>
 <a href="https://asciinema.org/a/4hsksFN2N7zayMe0YOpLk8Ver" target="_blank"><img src="https://asciinema.org/a/4hsksFN2N7zayMe0YOpLk8Ver.svg" /></a>
 <a href="https://asciinema.org/a/4au8fgCwQfR97X2ky13ws8VCJ" target="_blank"><img src="https://asciinema.org/a/4au8fgCwQfR97X2ky13ws8VCJ.svg" /></a>
