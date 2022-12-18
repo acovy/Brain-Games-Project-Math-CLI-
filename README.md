@@ -1,11 +1,14 @@
 ### Project description
 Welcome to the Brain Games!
 
+
 There are 5 games available. 
 In order to install Brain Games you should download the package and run in your terminal:
 pip install brain-games --user
 
+
 In order to play you should run the following specific command to each game:
+
 
 <li>Game: "Is number even?" (make brain-even)</li>
 <li>Game: "Calculator" (make brain-calc)</li>
@@ -14,10 +17,13 @@ In order to play you should run the following specific command to each game:
 <li>Game: "Is number prime?" (make brain-prime)</li>
 Run the games and follow the instructions!
 
+
 [![Maintainability](https://api.codeclimate.com/v1/badges/c319671fcf845feb0d77/maintainability)](https://codeclimate.com/github/gravanofranchezd/python-project-49/maintainability)
+
 
 ### Hexlet tests and linter status:
 [![Actions Status](https://github.com/gravanofranchezd/python-project-49/workflows/hexlet-check/badge.svg)](https://github.com/gravanofranchezd/python-project-49/actions)
+
 
 ### Asciinema:
 <a href="https://asciinema.org/a/uNhgoqXU7innEsJSqV77NgcAM" target="_blank"><img src="https://asciinema.org/a/uNhgoqXU7innEsJSqV77NgcAM.svg" /></a>
