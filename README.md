@@ -1,10 +1,13 @@
 ### Hexlet tests and linter status:
 
+
 [![Actions Status](https://github.com/gravanofranchezd/python-project-49/workflows/hexlet-check/badge.svg)](https://github.com/gravanofranchezd/python-project-49/actions)
 [![Maintainability](https://api.codeclimate.com/v1/badges/c319671fcf845feb0d77/maintainability)](https://codeclimate.com/github/gravanofranchezd/python-project-49/maintainability)
 [![Test Coverage](https://api.codeclimate.com/v1/badges/c319671fcf845feb0d77/test_coverage)](https://codeclimate.com/github/gravanofranchezd/python-project-49/test_coverage)
 
-### Install
+
+### Install:
+
 
 ```
 git clone https://github.com/gravanofranchezd/python-project-49
@@ -12,12 +15,15 @@ cd python-project-49
 make package-install
 ```
 
-## `Usage`
+### Usage:
+
+
 * Even number: `brain-even`
 * Calculate the expression: `brain-calc`
 * Greatest common divisor: `brain-gcd`
 * Guess missing number: `brain-progression`
 * Prime number: `brain-prime`
+
 
 ### Asciinema:
 
