@@ -23,7 +23,7 @@ Run the games and follow the instructions!
 
 
 ### Code Climate:
-[![Maintainability](https://api.codeclimate.com/v1/badges/c319671fcf845feb0d77/maintainability)](https://codeclimate.com/github/gravanofranchezd/python-project-49/maintainability)
+<a href="https://codeclimate.com/github/gravanofranchezd/python-project-49/maintainability"><img src="https://api.codeclimate.com/v1/badges/c319671fcf845feb0d77/maintainability" /></a>
 
 
 ### Asciinema:
