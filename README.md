@@ -1,4 +1,4 @@
-### Hexlet tests and linter status:
+## Hexlet tests and linter status:
 
 
 [![Actions Status](https://github.com/gravanofranchezd/python-project-49/workflows/hexlet-check/badge.svg)](https://github.com/gravanofranchezd/python-project-49/actions)
@@ -6,7 +6,7 @@
 [![Test Coverage](https://api.codeclimate.com/v1/badges/c319671fcf845feb0d77/test_coverage)](https://codeclimate.com/github/gravanofranchezd/python-project-49/test_coverage)
 
 
-### Install:
+## Install:
 
 
 ```
@@ -15,7 +15,7 @@ cd python-project-49
 make package-install
 ```
 
-### Usage:
+## Usage:
 
 
 * Even number: `brain-even`
@@ -25,7 +25,7 @@ make package-install
 * Prime number: `brain-prime`
 
 
-### Asciinema:
+## Asciinema:
 
 
 <a href="https://asciinema.org/a/yygJBZfpkg4ZfCJuU3Fn7pYkf" target="_blank"><img src="https://asciinema.org/a/yygJBZfpkg4ZfCJuU3Fn7pYkf.svg" /></a>
