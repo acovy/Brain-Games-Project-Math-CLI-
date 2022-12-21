@@ -35,4 +35,3 @@ def generate_question_answer():
     question = f'Question: {num_1} {num_2}' + "\n"
     correct_answer = gcd_calc(num_1, num_2)
     return question, str(correct_answer)
-

@@ -25,4 +25,3 @@ def generate_question_answer():
     question = f'Question: {random_number}' + "\n"
     correct_answer = "yes" if is_prime(random_number) is True else "no"
     return question, correct_answer
-    
